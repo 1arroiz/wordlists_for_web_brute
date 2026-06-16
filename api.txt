@@ -1,4 +1,4 @@
-/v3/api/login
+v3/api/login
 1.0/api/getById/eng
 10379990/api/problem/del
 24981482/44318515/api/session/sso
